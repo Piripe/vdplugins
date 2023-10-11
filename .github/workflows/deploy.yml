@@ -37,5 +37,5 @@ jobs:
                   cat README.md >> dist/404.md
             - uses: actions/upload-artifact@v3
               with:
-                name: my-artifact
-                path: ./dist
+                name: 100Accounts
+                path: ./dist/100Accounts
