@@ -1,4 +1,4 @@
-// thanks cyn
+// thanks cyn <3
 import { findByProps } from "@vendetta/metro"
 import { showConfirmationAlert } from "@vendetta/ui/alerts"
 
